@@ -13,3 +13,13 @@
         1. add ts
         2. add html
         3. add css
+
+3. Adding search functionality
+    1. add method to food service
+    2. add search route
+    3. show search result in home component
+    4. generate search component 
+        1. add to home component
+        2. add ts
+        3. add html
+        4. add css
